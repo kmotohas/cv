@@ -1,5 +1,5 @@
 # 職務経歴書
-Tue, May 13, 2020
+June 18, 2020
 
 ## 個人データ
 - 本橋 和貴 (MOTOHASHI Kazuki, Ph.D)
@@ -174,5 +174,7 @@ Linear Collider Groupに所属し、ハドロンカロリメーターのビー�
     - K. Motohashi et al. (2014), [Evaluation of KEK n-in-p planar pixel sensor structures for very high radiation environments with testbeam](https://www.sciencedirect.com/science/article/pii/S0168900214006457), HSTD-9 2013
 
 2014年 東京工業大学 理工学研究科 基礎物理学選考 修士課程 修了
+
 2012年 東京工業大学 理学部 物理学科 卒業
+
 2007年 東京都立西高等学校 普通科 卒業
