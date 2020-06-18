@@ -170,5 +170,5 @@ Linear Collider Groupに所属し、ハドロンカロリメーターのビー�
 
 - 投稿論文、()内は出版年
     - ATLAS Collaboration (2018), [Search for long-lived, massive particles in events with displaced vertices and missing transverse momentum in √s = 13 TeV pp collisions with the ATLAS detector](https://doi.org/10.1103/PhysRevD.97.052012), Phys. Rev. D 97, 052012
-    - K. Motoahshi (2015), [IBL modules construction experience and developments for future upgrade](http://iopscience.iop.org/article/10.1088/1748-0221/10/04/C04027), PIXEL2014
-    - K. Motoahshi et al. (2014), [Evaluation of KEK n-in-p planar pixel sensor structures for very high radiation environments with testbeam](https://www.sciencedirect.com/science/article/pii/S0168900214006457), HSTD-9 2013
+    - K. Motohashi (2015), [IBL modules construction experience and developments for future upgrade](http://iopscience.iop.org/article/10.1088/1748-0221/10/04/C04027), PIXEL2014
+    - K. Motohashi et al. (2014), [Evaluation of KEK n-in-p planar pixel sensor structures for very high radiation environments with testbeam](https://www.sciencedirect.com/science/article/pii/S0168900214006457), HSTD-9 2013
