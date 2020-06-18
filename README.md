@@ -172,3 +172,7 @@ Linear Collider Groupに所属し、ハドロンカロリメーターのビー�
     - ATLAS Collaboration (2018), [Search for long-lived, massive particles in events with displaced vertices and missing transverse momentum in √s = 13 TeV pp collisions with the ATLAS detector](https://doi.org/10.1103/PhysRevD.97.052012), Phys. Rev. D 97, 052012
     - K. Motohashi (2015), [IBL modules construction experience and developments for future upgrade](http://iopscience.iop.org/article/10.1088/1748-0221/10/04/C04027), PIXEL2014
     - K. Motohashi et al. (2014), [Evaluation of KEK n-in-p planar pixel sensor structures for very high radiation environments with testbeam](https://www.sciencedirect.com/science/article/pii/S0168900214006457), HSTD-9 2013
+
+2014年 東京工業大学 理工学研究科 基礎物理学選考 修士課程 修了
+2012年 東京工業大学 理学部 物理学科 卒業
+2007年 東京都立西高等学校 普通科 卒業
